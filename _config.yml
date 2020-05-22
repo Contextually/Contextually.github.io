@@ -1,13 +1,13 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: tecc501@hotmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Notes from the crew
+title: Contextually 
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+  Contextually is a collection of essays or explorations that excite us
 url: http://barber.samesies.io
 twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
