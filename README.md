@@ -230,4 +230,4 @@ Barber has been released for free. Similar themes cost around $29 on [ThemeFores
 ### Support
 Email <okay@samesies.io> if you need any additional support with Barber.
 
-- Helped by Joe
+- Helped by Joe!
